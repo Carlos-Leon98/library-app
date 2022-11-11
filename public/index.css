@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    margin-bottom: 59px;
+    background-color: #D9D9D9;
+}
+section{
+    margin-bottom: 30px;
+    background-color: #D9D9D9;
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    width: 100px;
+    height: 130px;
+    background-color: #1E1E1E;
+}
+.button-section{background-color: transparent;}
+button{
+    width: 59px;
+    height: 59px;
+    border-color: #1E1E1E;
+    border-radius: 100%;
+    background-color: #1E1E1E;
+    outline: none;
+}
